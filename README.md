@@ -98,10 +98,10 @@ The same dataset is analyzed in both Excel and Power BI to demonstrate tool flex
 - Developed stakeholder-focused visualization design principles.
 
 
-
 ##  Contact
 LinkedIn: https://www.linkedin.com/in/bhoomi-gupta-67a669281/  
 GitHub: https://github.com/BhoomiGupta19
+
 
 
 ##  Dashboard Preview
