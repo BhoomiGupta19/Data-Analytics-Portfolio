@@ -20,7 +20,7 @@ Data Analyst | Business Analyst | Marketing Analyst | Business Intelligence Anal
 ### Sales & Profitability Dashboard
 
 **Objective:**  
-Analyze retail sales transaction data to evaluate revenue performance, profitability drivers, and regional trends using Excel and Power BI.
+Analyzed 10,000+ retail transactions generating 2.30M in sales and 286.40K in profit to evaluate regional performance, category profitability, discount impact, and shipping efficiency.
 
 The same dataset is analyzed in both Excel and Power BI to demonstrate tool flexibility and analytical depth.
 
@@ -36,6 +36,14 @@ The same dataset is analyzed in both Excel and Power BI to demonstrate tool flex
   - Discount
   - Shipping mode
   - Customer segment
+
+
+##  Business Questions Answered
+- Which regions generate the highest profitability?
+- Which product categories drive margin versus volume?
+- How do discounts impact overall profitability?
+- Which shipping modes optimize operational margins?
+- How can leadership prioritize pricing and logistics decisions?
 
 
 ##  Analysis Performed
@@ -84,7 +92,11 @@ The same dataset is analyzed in both Excel and Power BI to demonstrate tool flex
 - Advanced Excel analytics and structuring
 - Power BI dashboard design and data modeling
 - Business storytelling through visuals
-- KPI-driven reporting mindset
+- Strengthened KPI-driven reporting and dashboard storytelling.
+- Improved data modeling and calculated metrics using Power BI DAX.
+- Enhanced business interpretation of pricing, logistics, and profitability data.
+- Developed stakeholder-focused visualization design principles.
+
 
 
 ##  Contact
