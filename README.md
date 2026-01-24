@@ -10,11 +10,9 @@ This portfolio is aligned for entry-level roles such as:
 Data Analyst | Business Analyst | Marketing Analyst | Business Intelligence Analyst
 
 
-
 ##  Tools & Technologies
 - Microsoft Excel (Advanced formulas, Pivot Tables, Data Cleaning, Data Validation)
 - Power BI (Power Query, Data Modeling, DAX, KPI Dashboards, Interactive Visuals)
-
 
 
 ## Project Overview
@@ -25,7 +23,6 @@ Data Analyst | Business Analyst | Marketing Analyst | Business Intelligence Anal
 Analyze retail sales transaction data to evaluate revenue performance, profitability drivers, and regional trends using Excel and Power BI.
 
 The same dataset is analyzed in both Excel and Power BI to demonstrate tool flexibility and analytical depth.
-
 
 
 ##  Dataset Overview
@@ -41,7 +38,6 @@ The same dataset is analyzed in both Excel and Power BI to demonstrate tool flex
   - Customer segment
 
 
-
 ##  Analysis Performed
 - Data cleaning and formatting in Excel
 - Handling missing values and inconsistent entries
@@ -49,7 +45,6 @@ The same dataset is analyzed in both Excel and Power BI to demonstrate tool flex
 - Pivot table analysis for category and regional performance
 - KPI calculations for total sales, total profit, and average margin
 - Power BI dashboard creation with slicers and filters
-
 
 
 ##  Dashboard Features
@@ -61,7 +56,6 @@ The same dataset is analyzed in both Excel and Power BI to demonstrate tool flex
 - Category-wise sales and profit breakdown
 - Interactive slicers for dynamic filtering
 - Trend analysis visuals
-
 
 
 ##  Key Insights 
@@ -79,13 +73,11 @@ The same dataset is analyzed in both Excel and Power BI to demonstrate tool flex
 - Helps leadership monitor business KPIs quickly
 
 
-
 ##  Project Files
 - Excel workbook with cleaned data and pivot analysis
 - Power BI (.pbix) dashboard file
 - Dataset files
 - Screenshots of dashboards
-
 
 
 ##  Learning Outcomes
@@ -95,7 +87,11 @@ The same dataset is analyzed in both Excel and Power BI to demonstrate tool flex
 - KPI-driven reporting mindset
 
 
-
 ##  Contact
 LinkedIn: https://www.linkedin.com/in/bhoomi-gupta-67a669281/  
 GitHub: https://github.com/BhoomiGupta19
+
+
+##  Dashboard Preview
+![Power BI Dashboard](powerbi_dashboard.png)
+![Excel Dashboard](excel_dashboard.png)
